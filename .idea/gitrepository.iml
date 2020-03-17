@@ -3,8 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/03983102d17643338ea392a68f7d666f/215-calculateretireschedule" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/homework05(2)/210-filterevennumbers" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/homework07/158-readcsv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab05/9-arrival-of-general" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/homework05(2)/204-deletestaff" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
