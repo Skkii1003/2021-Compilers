@@ -17,8 +17,10 @@
     <mapping directory="$PROJECT_DIR$/homework05(1)" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/homework05(2)" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/homework07" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework07(2)" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab03" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab04" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab05" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/warmuppython" vcs="Git" />
   </component>
 </project>
