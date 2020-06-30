@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/03983102d17643338ea392a68f7d666f" vcs="" />
     <mapping directory="$PROJECT_DIR$/0b6b4cd45a5a41888e215cb8b88ae0db" vcs="" />
+    <mapping directory="$PROJECT_DIR$/2c35af0f36564f009391fcec6ce5f212" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/6045981c150e4ac0b84abe11fda00301" vcs="" />
     <mapping directory="$PROJECT_DIR$/8021f11656514cb995dc530435da8390" vcs="" />
     <mapping directory="$PROJECT_DIR$/b3e9fa7d64fd49d5bf98b2e6abca9e77" vcs="" />
@@ -19,9 +20,11 @@
     <mapping directory="$PROJECT_DIR$/homework07" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/homework07(2)" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/homework08" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework10" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab03" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab04" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab05" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab06" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/warmuppython" vcs="Git" />
   </component>
 </project>
