@@ -2,29 +2,52 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/03983102d17643338ea392a68f7d666f" vcs="" />
-    <mapping directory="$PROJECT_DIR$/0b6b4cd45a5a41888e215cb8b88ae0db" vcs="" />
-    <mapping directory="$PROJECT_DIR$/2c35af0f36564f009391fcec6ce5f212" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/6045981c150e4ac0b84abe11fda00301" vcs="" />
-    <mapping directory="$PROJECT_DIR$/8021f11656514cb995dc530435da8390" vcs="" />
-    <mapping directory="$PROJECT_DIR$/b3e9fa7d64fd49d5bf98b2e6abca9e77" vcs="" />
-    <mapping directory="$PROJECT_DIR$/c446f05970e84d758395c6f66836de95" vcs="" />
-    <mapping directory="$PROJECT_DIR$/d469f2abb7c0493da62b594d8a6b0ea7" vcs="" />
-    <mapping directory="$PROJECT_DIR$/homework01" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework02" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework03" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework04" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework05" vcs="" />
-    <mapping directory="$PROJECT_DIR$/homework05(1)" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework05(2)" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework07" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework07(2)" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework08" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework10" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/lab03" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/lab04" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/lab05" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/lab06" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/warmuppython" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/01973e8700fe4338ae42c8c911d4c2f1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/5f6f820b8cc843f0bd6b9888b372e86b" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/60ac66e162304f18a07ab1b911886ebf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/7061b191820048de9b9f8073b44491c2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/8c51028e12f849aab165b4494414a97b" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/a2d9813c4e9f41f7acd9d615c91016a6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/c2ac5e32c85e46ee87226ceb0abfa95d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/c8ab592659754f6da70f66b7e7d1480e" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/d8824e62e54e454a92bb42365b4ab89e" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/ded55df71ec6476586a0cb6b798f0e04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer organization and struture/feb7516b50684881896d8d7ccabb346e" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/04490110f2ae44478eaf9a073239552f" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/JVM-Final" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/c3e2e67e86ba40169c8287b8fc05d06f" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/de3c0d444630487fae3751d026fc3249" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/goodmapgame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework05(1)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework05(2)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework07" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework07(2)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework08" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework08(1)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework09" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework12" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/homework13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/jvm-01-CommandLineUtil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/jvm-02-ClassFileReader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/jvm-03-ClassFileParser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/jvm-04-ClassLoader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/jvm-05-Instructions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/jvm-06-Interpreter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/lab03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/lab04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/lab05" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/lab06" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/lab08" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/lab08(1)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/lab09" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/lab10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/warmuppython" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/software egineering1/warmuppython2" vcs="Git" />
   </component>
 </project>
